@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>N_782.jpg</filename>
+	<path>MAFA-Crop-Yolo/test//N_782.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>459</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>8</ymin>
+			<xmax>246</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

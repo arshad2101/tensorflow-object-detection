@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>M_962.jpg</filename>
+	<path>MAFA-Crop-Yolo/train//M_962.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>671</width>
+		<height>874</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>239</ymin>
+			<xmax>241</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

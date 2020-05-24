@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>M_466.jpg</filename>
+	<path>MAFA-Crop-Yolo/test//M_466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1116</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>223</ymin>
+			<xmax>510</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

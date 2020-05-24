@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>N_3132.jpg</filename>
+	<path>MAFA-Crop-Yolo/train//N_3132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1188</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>224</ymin>
+			<xmax>739</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
